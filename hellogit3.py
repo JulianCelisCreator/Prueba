@@ -1,2 +1,2 @@
-print('Hello Git 3 V! XD')
+print('Hello Git 3 V!')
  
